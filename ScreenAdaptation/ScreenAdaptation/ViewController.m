@@ -35,6 +35,8 @@ static NSString * const homeId = @"HomeTableViewCell";
     
     [self.tableView registerClass:[HomeTableViewCell class] forCellReuseIdentifier:homeId];
     
+    
+    
 }
 
 #pragma mark - UITableViewDataSource

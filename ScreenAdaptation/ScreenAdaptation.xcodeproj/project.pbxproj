@@ -15,14 +15,14 @@
 		BB3F8869212D33A700A797A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB3F8867212D33A700A797A0 /* LaunchScreen.storyboard */; };
 		BB3F886C212D33A700A797A0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BB3F886B212D33A700A797A0 /* main.m */; };
 		BB3F8875212D3BC600A797A0 /* HomeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = BB3F8874212D3BC600A797A0 /* HomeTableViewCell.m */; };
-		BB3F887B212D5A7500A797A0 /* iPhone 8 Plus.png in Resources */ = {isa = PBXBuildFile; fileRef = BB3F8877212D5A7500A797A0 /* iPhone 8 Plus.png */; };
-		BB3F887C212D5A7500A797A0 /* iPhone SE.png in Resources */ = {isa = PBXBuildFile; fileRef = BB3F8878212D5A7500A797A0 /* iPhone SE.png */; };
-		BB3F887D212D5A7500A797A0 /* iPhone X.png in Resources */ = {isa = PBXBuildFile; fileRef = BB3F8879212D5A7500A797A0 /* iPhone X.png */; };
-		BB3F887E212D5A7500A797A0 /* iPhone 8.png in Resources */ = {isa = PBXBuildFile; fileRef = BB3F887A212D5A7500A797A0 /* iPhone 8.png */; };
-		BB3F8884212D5A7D00A797A0 /* iPhone 8 Plus.png in Resources */ = {isa = PBXBuildFile; fileRef = BB3F8880212D5A7D00A797A0 /* iPhone 8 Plus.png */; };
-		BB3F8885212D5A7D00A797A0 /* iPhone SE.png in Resources */ = {isa = PBXBuildFile; fileRef = BB3F8881212D5A7D00A797A0 /* iPhone SE.png */; };
-		BB3F8886212D5A7D00A797A0 /* iPhone X.png in Resources */ = {isa = PBXBuildFile; fileRef = BB3F8882212D5A7D00A797A0 /* iPhone X.png */; };
-		BB3F8887212D5A7D00A797A0 /* iPhone 8.png in Resources */ = {isa = PBXBuildFile; fileRef = BB3F8883212D5A7D00A797A0 /* iPhone 8.png */; };
+		BBA18552212D674B0026765F /* iPhone 8.png in Resources */ = {isa = PBXBuildFile; fileRef = BBA1854E212D674A0026765F /* iPhone 8.png */; };
+		BBA18553212D674B0026765F /* iPhone SE.png in Resources */ = {isa = PBXBuildFile; fileRef = BBA1854F212D674A0026765F /* iPhone SE.png */; };
+		BBA18554212D674B0026765F /* iPhone 8 Plus.png in Resources */ = {isa = PBXBuildFile; fileRef = BBA18550212D674A0026765F /* iPhone 8 Plus.png */; };
+		BBA18555212D674B0026765F /* iPhone X.png in Resources */ = {isa = PBXBuildFile; fileRef = BBA18551212D674A0026765F /* iPhone X.png */; };
+		BBC50391212D5FEE00295ABF /* iPhone X.png in Resources */ = {isa = PBXBuildFile; fileRef = BBC5038D212D5FEE00295ABF /* iPhone X.png */; };
+		BBC50392212D5FEE00295ABF /* iPhone SE.png in Resources */ = {isa = PBXBuildFile; fileRef = BBC5038E212D5FEE00295ABF /* iPhone SE.png */; };
+		BBC50393212D5FEE00295ABF /* iPhone 8.png in Resources */ = {isa = PBXBuildFile; fileRef = BBC5038F212D5FEE00295ABF /* iPhone 8.png */; };
+		BBC50394212D5FEE00295ABF /* iPhone 8 Plus.png in Resources */ = {isa = PBXBuildFile; fileRef = BBC50390212D5FEE00295ABF /* iPhone 8 Plus.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,15 +40,15 @@
 		BB3F8872212D342F00A797A0 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 		BB3F8873212D3BC600A797A0 /* HomeTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeTableViewCell.h; sourceTree = "<group>"; };
 		BB3F8874212D3BC600A797A0 /* HomeTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeTableViewCell.m; sourceTree = "<group>"; };
-		BB3F8877212D5A7500A797A0 /* iPhone 8 Plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8 Plus.png"; sourceTree = "<group>"; };
-		BB3F8878212D5A7500A797A0 /* iPhone SE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone SE.png"; sourceTree = "<group>"; };
-		BB3F8879212D5A7500A797A0 /* iPhone X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone X.png"; sourceTree = "<group>"; };
-		BB3F887A212D5A7500A797A0 /* iPhone 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8.png"; sourceTree = "<group>"; };
-		BB3F8880212D5A7D00A797A0 /* iPhone 8 Plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8 Plus.png"; sourceTree = "<group>"; };
-		BB3F8881212D5A7D00A797A0 /* iPhone SE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone SE.png"; sourceTree = "<group>"; };
-		BB3F8882212D5A7D00A797A0 /* iPhone X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone X.png"; sourceTree = "<group>"; };
-		BB3F8883212D5A7D00A797A0 /* iPhone 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8.png"; sourceTree = "<group>"; };
 		BB551BFD835C8B3B5DFAEDF9 /* Pods-ScreenAdaptation.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ScreenAdaptation.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ScreenAdaptation/Pods-ScreenAdaptation.debug.xcconfig"; sourceTree = "<group>"; };
+		BBA1854E212D674A0026765F /* iPhone 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8.png"; sourceTree = "<group>"; };
+		BBA1854F212D674A0026765F /* iPhone SE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone SE.png"; sourceTree = "<group>"; };
+		BBA18550212D674A0026765F /* iPhone 8 Plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8 Plus.png"; sourceTree = "<group>"; };
+		BBA18551212D674A0026765F /* iPhone X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone X.png"; sourceTree = "<group>"; };
+		BBC5038D212D5FEE00295ABF /* iPhone X.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone X.png"; sourceTree = "<group>"; };
+		BBC5038E212D5FEE00295ABF /* iPhone SE.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone SE.png"; sourceTree = "<group>"; };
+		BBC5038F212D5FEE00295ABF /* iPhone 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8.png"; sourceTree = "<group>"; };
+		BBC50390212D5FEE00295ABF /* iPhone 8 Plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iPhone 8 Plus.png"; sourceTree = "<group>"; };
 		D8FD2D11A61C7A2D9334BE8D /* libPods-ScreenAdaptation.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ScreenAdaptation.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -123,10 +123,10 @@
 		BB3F8876212D5A7500A797A0 /* 屏幕适配方案一 */ = {
 			isa = PBXGroup;
 			children = (
-				BB3F8877212D5A7500A797A0 /* iPhone 8 Plus.png */,
-				BB3F8878212D5A7500A797A0 /* iPhone SE.png */,
-				BB3F8879212D5A7500A797A0 /* iPhone X.png */,
-				BB3F887A212D5A7500A797A0 /* iPhone 8.png */,
+				BBC50390212D5FEE00295ABF /* iPhone 8 Plus.png */,
+				BBC5038F212D5FEE00295ABF /* iPhone 8.png */,
+				BBC5038E212D5FEE00295ABF /* iPhone SE.png */,
+				BBC5038D212D5FEE00295ABF /* iPhone X.png */,
 			);
 			path = "屏幕适配方案一";
 			sourceTree = "<group>";
@@ -134,10 +134,10 @@
 		BB3F887F212D5A7D00A797A0 /* 屏幕适配方案二 */ = {
 			isa = PBXGroup;
 			children = (
-				BB3F8880212D5A7D00A797A0 /* iPhone 8 Plus.png */,
-				BB3F8881212D5A7D00A797A0 /* iPhone SE.png */,
-				BB3F8882212D5A7D00A797A0 /* iPhone X.png */,
-				BB3F8883212D5A7D00A797A0 /* iPhone 8.png */,
+				BBA18550212D674A0026765F /* iPhone 8 Plus.png */,
+				BBA1854E212D674A0026765F /* iPhone 8.png */,
+				BBA1854F212D674A0026765F /* iPhone SE.png */,
+				BBA18551212D674A0026765F /* iPhone X.png */,
 			);
 			path = "屏幕适配方案二";
 			sourceTree = "<group>";
@@ -202,17 +202,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BB3F8887212D5A7D00A797A0 /* iPhone 8.png in Resources */,
 				BB3F8869212D33A700A797A0 /* LaunchScreen.storyboard in Resources */,
-				BB3F887E212D5A7500A797A0 /* iPhone 8.png in Resources */,
+				BBC50391212D5FEE00295ABF /* iPhone X.png in Resources */,
+				BBA18552212D674B0026765F /* iPhone 8.png in Resources */,
 				BB3F8866212D33A700A797A0 /* Assets.xcassets in Resources */,
-				BB3F8884212D5A7D00A797A0 /* iPhone 8 Plus.png in Resources */,
-				BB3F887D212D5A7500A797A0 /* iPhone X.png in Resources */,
-				BB3F8885212D5A7D00A797A0 /* iPhone SE.png in Resources */,
-				BB3F8886212D5A7D00A797A0 /* iPhone X.png in Resources */,
-				BB3F887C212D5A7500A797A0 /* iPhone SE.png in Resources */,
+				BBC50392212D5FEE00295ABF /* iPhone SE.png in Resources */,
+				BBA18555212D674B0026765F /* iPhone X.png in Resources */,
+				BBA18553212D674B0026765F /* iPhone SE.png in Resources */,
+				BBC50394212D5FEE00295ABF /* iPhone 8 Plus.png in Resources */,
+				BBA18554212D674B0026765F /* iPhone 8 Plus.png in Resources */,
+				BBC50393212D5FEE00295ABF /* iPhone 8.png in Resources */,
 				BB3F8864212D33A500A797A0 /* Main.storyboard in Resources */,
-				BB3F887B212D5A7500A797A0 /* iPhone 8 Plus.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
