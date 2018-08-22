@@ -2,9 +2,9 @@
 屏幕适配方案
 
 屏幕截图
-方案一
+## 方案一
 ![](https://github.com/ziyilixin/ScreenAdaptation/blob/master/ScreenAdaptation/ScreenAdaptation/PlanA/iPhone%20X.png?raw=true)
-方案二
+## 方案二
 ![](https://github.com/ziyilixin/ScreenAdaptation/blob/master/ScreenAdaptation/ScreenAdaptation/PlanB/iPhone%20X.png?raw=true)
 
 ## 方案一
