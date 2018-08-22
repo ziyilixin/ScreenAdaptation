@@ -102,8 +102,8 @@
 		BB3F885B212D33A500A797A0 /* ScreenAdaptation */ = {
 			isa = PBXGroup;
 			children = (
-				BB3F8876212D5A7500A797A0 /* 屏幕适配方案一 */,
-				BB3F887F212D5A7D00A797A0 /* 屏幕适配方案二 */,
+				BB3F8876212D5A7500A797A0 /* PlanA */,
+				BB3F887F212D5A7D00A797A0 /* PlanB */,
 				BB3F885C212D33A500A797A0 /* AppDelegate.h */,
 				BB3F885D212D33A500A797A0 /* AppDelegate.m */,
 				BB3F885F212D33A500A797A0 /* ViewController.h */,
@@ -120,7 +120,7 @@
 			path = ScreenAdaptation;
 			sourceTree = "<group>";
 		};
-		BB3F8876212D5A7500A797A0 /* 屏幕适配方案一 */ = {
+		BB3F8876212D5A7500A797A0 /* PlanA */ = {
 			isa = PBXGroup;
 			children = (
 				BBC50390212D5FEE00295ABF /* iPhone 8 Plus.png */,
@@ -128,10 +128,10 @@
 				BBC5038E212D5FEE00295ABF /* iPhone SE.png */,
 				BBC5038D212D5FEE00295ABF /* iPhone X.png */,
 			);
-			path = "屏幕适配方案一";
+			path = PlanA;
 			sourceTree = "<group>";
 		};
-		BB3F887F212D5A7D00A797A0 /* 屏幕适配方案二 */ = {
+		BB3F887F212D5A7D00A797A0 /* PlanB */ = {
 			isa = PBXGroup;
 			children = (
 				BBA18550212D674A0026765F /* iPhone 8 Plus.png */,
@@ -139,7 +139,7 @@
 				BBA1854F212D674A0026765F /* iPhone SE.png */,
 				BBA18551212D674A0026765F /* iPhone X.png */,
 			);
-			path = "屏幕适配方案二";
+			path = PlanB;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
