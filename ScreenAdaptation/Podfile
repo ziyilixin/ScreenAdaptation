@@ -1,0 +1,6 @@
+platform :'ios', '9.0'
+# ignore all warnings from all pods
+inhibit_all_warnings!
+target 'ScreenAdaptation' do
+pod 'Masonry'
+end
