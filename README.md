@@ -5,7 +5,7 @@
 ## 方案一
 ![](https://github.com/ziyilixin/ScreenAdaptation/blob/master/ScreenAdaptation/ScreenAdaptation/PlanA/PlanA-iPhone%20X.png?raw=true)
 ## 方案二
-![](https://github.com/ziyilixin/ScreenAdaptation/blob/master/ScreenAdaptation/ScreenAdaptation/PlanB/PlanB-iPhone%20X.png?raw=true)
+![](https://github.com/ziyilixin/ScreenAdaptation/blob/master/ScreenAdaptation/ScreenAdaptation/PlanB/PlanB-PlanB-iPhone%20X.png?raw=true)
 
 ## 方案一
 ```objc
